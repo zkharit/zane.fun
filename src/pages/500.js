@@ -13,7 +13,7 @@ export default function Custom500() {
         <link rel="icon" href="/images/profile.png" />
       </Head>
       <div className={utilStyles.centeredText}>
-        Uh oh! Something went wrong (I'm trying to fix it!!), but check this out instead: <Link href="/post/christmas-btc" className={utilStyles.christmasLink}>Christmas BTC</Link>
+        Uh oh! Something went wrong (I'm trying to fix it!!), but check this out instead: <Link href="/post/christmas-btc" className={utilStyles.christmasLink}>Bitcoin for Christmas!</Link>
       </div>
     </Layout>
   )

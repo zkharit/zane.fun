@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/images/profile.png" />
       </Head>
       <div className={utilStyles.centeredText}>
-        Uh oh! Theres nothing here (for now 😉), but youre probably looking for this: <Link href="/post/christmas-btc" className={utilStyles.christmasLink}>Christmas BTC</Link>
+        Uh oh! Theres nothing here (for now 😉), but youre probably looking for this: <Link href="/post/christmas-btc" className={utilStyles.christmasLink}>Bitcoin for Christmas!</Link>
       </div>
     </Layout>
   )
