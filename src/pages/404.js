@@ -3,9 +3,9 @@ import Link from 'next/link';
 import Layout from '@/components/layout';
 import utilStyles from '@/styles/utils.module.css';
 
-export default function Home() {
+export default function Custom404() {
   return (
-    <Layout home={true}>
+    <Layout>
       <Head>
         <title>zane.fun</title>
         <meta name="description" content="my fun website!"/>

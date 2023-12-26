@@ -50,3 +50,12 @@
 .lightText {
   color: #666;
 }
+
+.centeredText {
+  text-align: center;
+}
+
+.christmasLink {
+  color: red;
+  text-decoration: green wavy underline;
+}
