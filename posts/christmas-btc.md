@@ -193,10 +193,40 @@ Then click "Send", then "Max", so you send all of the Bitcoin in your wallet, th
 <img src="../images/christmas-btc/pic21.jpg" class="screenshotImage"/>
 <br >
 <br >
-Paste the Bitcoin address that you copied earlier, the Bitcoin address of the wallet you initially created, and click the address.
+Paste the Bitcoin address that you copied earlier, the Bitcoin address of the wallet you initially created, and click the address. If you receive an error at this screen it may be because you don't have enough bitcoin to cover the network fees. Follow along for now and read what that means below.
 <br >
 <br >
 <img src="../images/christmas-btc/pic22.jpg" class="screenshotImage"/>
+<br >
+<br >
+You will be taken to a confirmation screen, and you can click "Confirm" to send your Bitcoin. After you can view the status of your transcation by clicking "Transactions" on the bottom of your screen and clicking the relevant transaction. 
+<br >
+<br >
+<img src="../images/christmas-btc/pic23.jpg" class="screenshotImage"/>
+<br >
+<br >
+<img src="../images/christmas-btc/pic24.jpg" class="screenshotImage"/>
+<br >
+<br >
+<img src="../images/christmas-btc/pic25.jpg" class="screenshotImage"/>
+<br >
+<br >
+<img src="../images/christmas-btc/pic26.png" class="screenshotImage"/>
+<br >
+<br >
+A note about network fees. These network fees don't go to coinbase, me, or some centralized intermediary. The fee goes to a Bitcoin miner, the party responsible for confirming transactions and providing security to the Bitcoin blockchain. You can read more about that HERE. You may notice the transaction that I have shown makes very little economic sense, since the fee was much higher than the amount of Bitcoin that I was able to transact. At the time of writing, the Bitcoin network is in a period of high activity, and this coincides with high network fees. The majority of the time you can make a simple person A to person B transaction for just a few cents to a dollar or so. A solution to these types of problems are called Layer 2's for example, the Lightning Network, meant to facilitate many small transactions for little fees. On these Layer 2's you sacrifice security for speed. You can read more about the Lightning Network and how it works HERE.
+<br >
+<br >
+After you wait some time for your transaction to be confirmed you will be able to see the Bitcoin you transferred in the Bitcoin wallet you intially created! You can view the transaction that I created on the blockchain HERE.
+<br >
+<br >
+<img src="../images/christmas-btc/pic27.jpg" class="screenshotImage"/>
+<br >
+<br >
+<img src="../images/christmas-btc/pic28.jpg" class="screenshotImage"/>
+<br >
+<br >
+Congratulations! You have successfully created your first bitcoin wallet, and sent your first transaction! Youre way ahead of the rest of the population in this regard.
 <br >
 <br >
 Some very important topics here that you should understand is that YOU and only YOU are in control of your bitcoin at this time. No centralized exchange, for example Coinbase, or centralized entity, for example the US government or your bank, can control YOUR asset at this point. That is a very powerful concept and I implore you to think about what effects that could have on the greater public.
