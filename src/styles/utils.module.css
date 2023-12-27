@@ -25,6 +25,11 @@
   line-height: 1.5;
 }
 
+.authorText {
+  font-size: 1rem;
+  line-height: 1;
+}
+
 .borderCircle {
   border-radius: 9999px;
 }
