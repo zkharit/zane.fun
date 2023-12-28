@@ -122,7 +122,7 @@ In the gift that you have received I have provided a place for you to store such
 A caveat I must mention with the device that I sent you is that this isn't necessarily a "secure" way to store your mnemonic phrase. This is a fun gift that is meant to peak your interest in bitcoin from your friend. The device has some good aspects of security, that it is stored physically and offline, but lacks other crucial aspects of secure storage. If you lose this device, or it gets destroyed, think fire, flood, etc... you will lose access to your Bitcoin. You should really store this phrase securely in at least 2 secure separate places such as a safe for example. Mnemonic phrase storage is a highly debated topic and you can read more about it <a href="https://cryptoadventure.com/best-ways-to-store-your-mnemonic-passphrase-and-how/" class="link" target="_blank">here</a>. 
 <br >
 <br >
-**I AM NOT RESPONSIBLE FOR YOU LOSING YOUR MNUEMONIC PHRASE OR ANY ASSETS TIED THE mnemonic PHRASE YOU CREATED OR I PROVIDED YOU OR THE mnemonic PHRASE YOU HAVE STORED ON THE DEVICE I HAVE PROVIDED YOU.**
+**I AM NOT RESPONSIBLE FOR YOU LOSING YOUR MNEMONIC PHRASE OR ANY ASSETS TIED THE MNEMONIC PHRASE YOU CREATED OR I PROVIDED YOU OR THE MNEMONIC PHRASE YOU HAVE STORED ON THE DEVICE I HAVE PROVIDED YOU.**
 <br >
 <br > 
 
@@ -235,7 +235,7 @@ Congratulations! You have successfully created your first bitcoin wallet, and se
 Some very important topics here that you should understand is that YOU and only YOU are in control of your bitcoin at this time. No centralized exchange, for example Coinbase, or centralized entity, for example the US government or your bank, can control YOUR asset at this point. That is a very powerful concept and I implore you to think about what effects that could have on the greater public.
 <br >
 <br >
-If you've made it this far thanks so much for following along, and you may just want to hold onto that Bitcoin for your future (not financial advice) as I mentioned before, I believe this asset will play a prominent role in the future of finance and greater society. This was an extremely fun and rewarding project for me to work on including launching my website <a href="https://zane.fun" class="link" target="_blank">zane.fun</a>. If you care to see more about the development process for this project I'll eventually post some pictures and insights at this link: <a href="https://zane.fun/post/christmas-btc-gallery" class="link" target="_blank">https://zane.fun/post/christmas-btc-gallery</a>.
+If you've made it this far thanks so much for following along, and you may just want to hold onto that Bitcoin for your future (not financial advice) as I mentioned before, I believe this asset will play a prominent role in the future of finance and greater society. This was an extremely fun and rewarding project for me to work on including launching my website <a href="http://zane.fun" class="link" target="_blank">zane.fun</a>. If you care to see more about the development process for this project I'll eventually post some pictures and insights at this link: <a href="http://zane.fun/post/christmas-btc-gallery" class="link" target="_blank">zane.fun/post/christmas-btc-gallery</a>.
 <br >
 <br >
 Thanks, and have fun!
